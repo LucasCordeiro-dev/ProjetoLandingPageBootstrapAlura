@@ -13,7 +13,7 @@
 - Sass (Syntactically Awesome Stylesheets) para escrever estilos de forma mais eficiente e modular.
 
 ## Imagens do Projeto
-
+![Demonstraçäo](https://github.com/LucasCordeiro-dev/ProjetoLandingPageBootstrapAlura/blob/main/Meteora.gif)
 
 ## Instruções de Instalação
 ### Pré-requisitos
