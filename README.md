@@ -1,10 +1,9 @@
 <h1 align="center">Projeto Landing Page com Bootstrap Alura</h1> 
 
 ## Sobre o Projeto
-- Descrição geral do projeto: Meu primeiro site criado com bootstrap, implementando meus conhecimentos adquiridos pelo curso da alura, onde tive meu primeiro contato.
-- Objetivos do projeto: Desenvolver um site 100% com bootstrap, estilizando e o deixando responsivo.
-- Principais funcionalidades: Além de responsivo, site 100% funcional e pronto para uso.
-
+- Descrição geral do projeto: Site criado com bootstrap, implementando meus conhecimentos adquiridos no curso da alura, onde tive meu primeiro contato com esta maneira ágil de se estruturar um site, otimizando tempo.
+- Objetivos do projeto: Desenvolver um site 100% com bootstrap, estilizando e implementando responsividade.
+- Principais funcionalidades: Responsivo,interativo e funcional.
 ## Tecnologias Usadas
 - Framework: **Visual Studio Code**
 - HTML: Utilizado para a estruturação do conteúdo das páginas web.
