@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Landing Page com Bootstrap Alura</h1> 
+<h1 align="center">Projeto Landing Page com Bootstrap </h1> 
 
 ## Sobre o Projeto
 - Descrição geral do projeto: Site criado com bootstrap, implementando meus conhecimentos adquiridos no curso da alura, onde tive meu primeiro contato com esta maneira ágil de se estruturar um site, otimizando tempo.
